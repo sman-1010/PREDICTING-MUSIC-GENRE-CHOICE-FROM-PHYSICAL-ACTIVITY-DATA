@@ -1,2 +1,5 @@
 # PREDICTING-MUSIC-GENRE-CHOICE-FROM-PHYSICAL-ACTIVITY-DATA
 PREDICTING MUSIC GENRE CHOICE FROM PHYSICAL ACTIVITY DATA  - Hobby Project
+<br>
+Project was done on google colab:
+* Spotify_Data_Analysis.ipynb
